@@ -20,8 +20,8 @@ importers:
   vercel-azdo-pr-comment-task-source:
     dependencies:
       azure-devops-node-api:
-        specifier: 12.0.0
-        version: 12.0.0
+        specifier: 12.1.0
+        version: 12.1.0
       azure-pipelines-task-lib:
         specifier: 4.3.1
         version: 4.3.1
@@ -36,8 +36,8 @@ importers:
   vercel-deployment-task-source:
     dependencies:
       azure-devops-node-api:
-        specifier: 12.0.0
-        version: 12.0.0
+        specifier: 12.1.0
+        version: 12.1.0
       azure-pipelines-task-lib:
         specifier: 4.3.1
         version: 4.3.1
@@ -505,8 +505,8 @@ packages:
       typed-rest-client: 1.8.9
     dev: false
 
-  /azure-devops-node-api@12.0.0:
-    resolution: {integrity: sha512-S6Il++7dQeMlZDokBDWw7YVoPeb90tWF10pYxnoauRMnkuL91jq9M7SOYRVhtO3FUC5URPkB/qzGa7jTLft0Xw==}
+  /azure-devops-node-api@12.1.0:
+    resolution: {integrity: sha512-VY+G45eNKVJfMIO0uyZfbi4PzUR8JHEfsHQjEUAXUGRkYhhBbhGHjy8cpiyYFxLXc3a4PL5cqgqqV/YD1SaCXg==}
     dependencies:
       tunnel: 0.0.6
       typed-rest-client: 1.8.9
